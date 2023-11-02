@@ -1,0 +1,8 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Text: ="Reji"
+        X: =369
+        Y: =231
+        ZIndex: =1
+
